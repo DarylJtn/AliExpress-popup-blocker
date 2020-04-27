@@ -1,0 +1,7 @@
+.next-overlay-wrapper{
+visibility: hidden;
+}
+body{   
+    overflow: visible !important; 
+    overflow-y: visible !important;
+}

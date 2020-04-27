@@ -1,0 +1,12 @@
+{
+  "name": "AliExpress popup blocker",
+  "version": "1.0",
+  "description": "Block new customer popups from AliExpress",
+  "permissions": [],
+  "manifest_version": 2,
+
+"content_scripts": [{
+  "css": ["styles.css"],
+  "matches": ["https://www.aliexpress.com/*"]
+}]
+}
