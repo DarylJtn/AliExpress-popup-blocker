@@ -7,6 +7,6 @@
 
 "content_scripts": [{
   "css": ["styles.css"],
-  "matches": ["https://www.aliexpress.com/*"]
+  "matches": ["https://*.aliexpress.com/*"]
 }]
 }
